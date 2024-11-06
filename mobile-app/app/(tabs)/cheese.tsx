@@ -10,7 +10,6 @@ export default function Page() {
 					<Text>Home</Text>
 				</Pressable>
 			</Link>
-
 			<Link href="/sandwich">Sandwich 🥪</Link>
 			<Link href="/">Home 🏠</Link>
 		</View>
